@@ -47,6 +47,7 @@ if __name__ == "__main__":
     
     endtime = time.time()
     print(f"That took {endtime-starttime} seconds.")
+    # That took 2.0890350341796875 seconds.
 
 
 
